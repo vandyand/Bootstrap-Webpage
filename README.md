@@ -6,7 +6,7 @@ This is an example page I made using bootstrap following a youtube tutorial [Her
 ## How to Use
 * Download code or clone repository to your system.
 * Make sure all files are in the same directory.
-* Open Proj1.html from your browser or execute it using command prompt or file explorer.
+* Open index.html from your browser or execute it using command prompt or file explorer.
 * Site will display in browser.
 
 ## License
